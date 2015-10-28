@@ -1,0 +1,17 @@
+版本更新说明：
+1.解决项目发布路径问题,项目可以发布在非根目录下
+2.发布新的会员模板
+3.整体ui界面升级
+数据库连接文件: config.properties
+数据库文件：db-mcms-open.sql
+数据库编码：UTF-8
+模板文件：templets/1549/mooc
+后台访问路径：
+http://+ip地址（或localhost）+tomcat端口+项目发布名/ms/login.do
+如果出现无法访问的情况输入
+http://+ip地址（或localhost）+tomcat端口+项目发布名/initApp进行初始化
+账号:msopen
+密码:msopen
+使用方法：
+1、导入doc/db-mcms-open.sql到mysql数据库
+2、导入src&webapps到开发IDE工具

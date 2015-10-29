@@ -97,3 +97,4 @@ http://+ip地址（或localhost）+tomcat端口+项目发布名/initApp进行初
 #系统美图
 
 ![输入图片说明](http://git.oschina.net/uploads/images/2015/1029/104525_0cfcedb7_542665.png "铭飞MS后台演示")
+![输入图片说明](http://git.oschina.net/uploads/images/2015/1029/105109_bf9db869_542665.png "铭飞内容管理系统后台演示")
